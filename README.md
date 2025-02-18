@@ -1,7 +1,3 @@
-Here's your project information structured in a more organized and professional manner with improved clarity and flow:  
-
----
-
 # 💳 **Predicting Bank Term Deposit Subscriptions** 🏦  
 
 ## 📌 **Project Overview**  
