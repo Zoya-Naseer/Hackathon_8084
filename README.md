@@ -79,7 +79,7 @@ By targeting the right audience, banks can:
 ---
 
 ## 🎥 **Project Presentation**  
-Watch our group presentation **[here]** (https://drive.google.com/file/d/1PaDik4mCMRKU5ClvQIkN6VFuEsaincWh/view?usp=sharing)  
+Watch our group presentation **[https://drive.google.com/file/d/1PaDik4mCMRKU5ClvQIkN6VFuEsaincWh/view?usp=sharing]** 
 
 ---
 
